@@ -1,6 +1,6 @@
 
 body{
-background-color:rgb(148, 122, 122) ;
+background-color:rgb(0, 0, 0) ;
 }
 
 
@@ -11,7 +11,7 @@ background: ;
 }
 
 p{
-color:wheat;
+color:rgb(36, 35, 34);
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font: bleck 25px; ;
 background: ;
